@@ -1,4 +1,18 @@
-﻿#########################################################
+﻿
+<#
+
+AUTHOR: BIBIDH BISTA
+
+Monitors disk space for a given folder path and sends alerts based on the threshold set. 
+
+Change the variable values to sender's email, list of users to send the alerts to, SMTP servername, Total Space available, and Path of share drive
+
+
+#>
+
+ 
+ 
+ #########################################################
 #
 # Disk space monitoring and reporting script
 #
